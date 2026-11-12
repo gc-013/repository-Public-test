@@ -34,8 +34,8 @@ button{width:100%;border:none;background:#1573b7;color:white;border-radius:10px;
 <script>
 // ================== 客戶必改設定（請勿填入任何 Token 或 Secret）==================
 const CONFIG={
-  LIFF_ID:'REPLACE_WITH_CUSTOMER_LIFF_ID', // 必改，例如 1234567890-AbCdEfGh
-  SERVICE_NAME:'客戶公司／設備名稱',          // 必改，頁面上方識別
+  LIFF_ID:'2012560689-Rxd5qDaA', // 必改，例如 1234567890-AbCdEfGh
+  SERVICE_NAME:'GC',          // 必改，頁面上方識別
   OA_FRIEND_URL:''                         // 選填，https://lin.ee/xxxxxx（OA 好友連結）
 };
 // ================================================================================
